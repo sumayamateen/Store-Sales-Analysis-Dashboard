@@ -79,6 +79,11 @@ The dataset contains **50 sales transactions** with the following key fields:
 
 ---
 
+## Dashboard Preview
+<img width="1113" height="545" alt="image" src="https://github.com/user-attachments/assets/0566b6be-3ddd-4297-99d9-3c5e341c8229" />
+
+---
+
 ## Business Insights
 ### Sales Performance
 - Mouse is the **top-performing product** by revenue  
@@ -114,10 +119,6 @@ The dataset contains **50 sales transactions** with the following key fields:
   - Lookups  
   - Pivot Tables  
   - Dashboard  
-
----
-## Dashboard Preview
-<img width="1113" height="545" alt="image" src="https://github.com/user-attachments/assets/0566b6be-3ddd-4297-99d9-3c5e341c8229" />
 
 ---
 
