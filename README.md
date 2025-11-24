@@ -117,9 +117,7 @@ The dataset contains **50 sales transactions** with the following key fields:
 
 ---
 ## Dashboard Preview
-<img width="1183" height="531" alt="Dashboard" src="https://github.com/user-attachments/assets/5a446fd0-c9ee-4286-83cb-a494a67f7ea5" />
-
----
+<img width="1113" height="545" alt="image" src="https://github.com/user-attachments/assets/0566b6be-3ddd-4297-99d9-3c5e341c8229" />
 
 ---
 
