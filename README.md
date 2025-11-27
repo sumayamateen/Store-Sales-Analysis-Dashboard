@@ -59,6 +59,7 @@ This sales analysis addresses critical store management challenges:
 
 ## Dashboard Preview
 <img width="1113" height="545" alt="Store Sales Dashboard" src="https://github.com/user-attachments/assets/0566b6be-3ddd-4297-99d9-3c5e341c8229" />
+
 *Interactive dashboard showcasing sales trends, top products, and regional performance*
 
 ---
