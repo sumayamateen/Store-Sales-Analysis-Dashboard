@@ -14,6 +14,19 @@ The workbook demonstrates **data cleaning, formulas, pivot tables, and an intera
 
 ---
 
+## Business Problems Solved
+This analysis addresses critical business challenges:
+
+- **Strategic Focus:** Where to allocate resources for maximum growth
+- **Customer Understanding:** Which segments drive the most value  
+- **Geographic Optimization:** Which markets offer the best ROI
+- **Operational Efficiency:** How to optimize inventory and shipping
+- **Performance Tracking:** How to monitor and improve sales performance
+
+**Impact:** Enables data-driven decision making across sales, marketing, and operations teams.
+
+---
+
 ## Key Achievements
 - **Revenue Analyzed:** $140,300 across 50 transactions
 - **Top Insight:** Mouse products driving $37,823 revenue
