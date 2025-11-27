@@ -1,5 +1,4 @@
-# Store Sales Analysis & Dashboard
-
+# Store Sales Analysis & Interactive Dashboard
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-Data_Analysis-green)
 ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-Analysis-orange)
 ![Interactive Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue)
@@ -9,136 +8,88 @@
 ---
 
 ## Project Overview
-This project involves a **comprehensive analysis of store sales data** using Microsoft Excel.  
-The workbook demonstrates **data cleaning, formulas, pivot tables, and an interactive dashboard** to visualize sales performance across products, regions, and salespersons.
+Comprehensive **Excel-based sales analysis** demonstrating data cleaning, formulas, pivot tables, and an **interactive dashboard** to visualize store performance across products, regions, and salespersons.  
+**Dataset:** 50 transactions | **Revenue Analyzed:** $140,300  
 
 ---
 
 ## Business Problems Solved
-This analysis addresses critical business challenges:
 
-- **Strategic Focus:** Where to allocate resources for maximum growth
-- **Customer Understanding:** Which segments drive the most value  
-- **Geographic Optimization:** Which markets offer the best ROI
-- **Operational Efficiency:** How to optimize inventory and shipping
-- **Performance Tracking:** How to monitor and improve sales performance
+This sales analysis addresses critical store management challenges:
 
-**Impact:** Enables data-driven decision making across sales, marketing, and operations teams.
-
----
-
-## Key Achievements
-- **Revenue Analyzed:** $140,300 across 50 transactions
-- **Top Insight:** Mouse products driving $37,823 revenue
-- **Technical Stack:** Advanced Excel formulas, pivot tables, interactive dashboard
-- **Business Impact:** Regional performance optimization strategies
+- **Product Strategy:** Clear focus on high-performing products (Mouse, Electronics)
+- **Regional Optimization:** Data-driven allocation of resources across regions
+- **Sales Team Management:** Performance insights for coaching and incentives
+- **Inventory Planning:** Strategic stock levels based on product performance
+- **Revenue Growth:** Identification of key drivers and opportunities
 
 ---
 
-## Dataset Information
-The dataset contains **50 sales transactions** with the following key fields:  
-- **Order ID:** Unique order identifier  
-- **Order Date:** Transaction date (Jan–Feb 2024)  
-- **Product:** Product category (Laptop, Mouse, Keyboard, Monitor, Printer)  
-- **Category:** Product type (Electronics, Accessories)  
-- **Region:** Geographic region (East, West, North, South)  
-- **Sales Amount:** Transaction value  
-- **Quantity:** Number of units sold  
-- **Customer Name:** Customer identifier  
-- **Salesperson:** Sales representative name  
+## Key Highlights
+- **Total Revenue:** $140,300 | **Total Units Sold:** 251 | **Total Orders:** 50  
+- **Top Product:** Mouse ($37,823 revenue)  
+- **Strongest Category:** Electronics (63.6% revenue)  
+- **Top Region Performance:** West region (Robert top performer)  
+- **Technical Skills Demonstrated:** Advanced Excel formulas, Pivot Tables, Dashboard development  
 
 ---
 
-## Key Metrics
-- **Total Sales Amount:** $140,300  
-- **Total Quantity Sold:** 251 units  
-- **Total Orders:** 50 transactions  
-- **Top Selling Product:** Mouse ($37,823)  
-
----
-
-## Excel Features Demonstrated
+## Excel Features & Analysis
 
 ### 1. Data Cleaning & Preparation
-- Handled missing values and data imputation  
+- Handled missing values and ensured data consistency  
 - Applied **data validation** with dropdowns for Category & Region  
-- Ensured data consistency and accuracy  
 
-### 2. Conditional Formatting & Logical Functions
-- **IF Formulas:** Classified sales as "High Sales" (>$2000) / "Low Sales" (≤$2000)  
-- **IFS Formulas:** Multi-tier classification (High/Medium/Low Sales)  
-- **SUMIF:** Total sales by salesperson  
-- **COUNTIFS:** Count of product types per salesperson  
+### 2. Formulas & Conditional Logic
+- **IF / IFS:** Classify High / Medium / Low sales  
+- **SUMIF / COUNTIFS:** Summarize sales by product, region, salesperson  
+- **VLOOKUP / INDEX+MATCH:** Retrieve product and transaction info  
 
-### 3. Lookup Functions
-- **VLOOKUP:** Retrieve product info based on Order ID  
-- **INDEX+MATCH:** Flexible alternative lookup  
-- Applied to answer business questions  
-
-### 4. Pivot Tables & Analysis
-- Sales performance by salesperson & product category  
-- Regional sales analysis  
-- Daily sales trends  
+### 3. Pivot Tables & Analysis
+- Sales performance by Product, Region, and Salesperson  
 - Category-wise revenue distribution  
+- Daily sales trend insights  
 
-### 5. Interactive Dashboard
-- **KPIs:** Total Sales, Total Quantity, Total Orders, Top Selling Product  
-- **Visualizations:**  
-  - Column Chart: Sales by Product  
-  - Line Chart: Sales Over Time  
-  - Pie Chart: Sales Distribution by Category  
-  - Table: Sales by Region & Salesperson  
-- **Interactive Features:** Region & Product slicers  
+### 4. Interactive Dashboard
+- **KPIs:** Total Sales, Quantity, Orders, Top Product  
+- **Visuals:** Column, Line, Pie Charts; Table with region & salesperson metrics  
+- **Interactive Features:** Product & Region slicers for dynamic exploration  
 
 ---
 
 ## Dashboard Preview
-<img width="1113" height="545" alt="image" src="https://github.com/user-attachments/assets/0566b6be-3ddd-4297-99d9-3c5e341c8229" />
+<img width="1113" height="545" alt="Store Sales Dashboard" src="https://github.com/user-attachments/assets/0566b6be-3ddd-4297-99d9-3c5e341c8229" />
+*Interactive dashboard showcasing sales trends, top products, and regional performance*
 
 ---
 
 ## Business Insights
-### Sales Performance
-- Mouse is the **top-performing product** by revenue  
-- Electronics contribute **63.6% of revenue** ($89,234)  
-- Accessories contribute **36.4% of revenue** ($51,066)  
-
-### Regional Analysis
-- West region shows strong performance with Robert as top performer  
-- South region has highest quantity sold (79 units)  
-- Consistent performance across all regions  
-
-### Sales Team Performance
-- **Alice:** Highest quantity sold (79 units)  
-- **Robert:** Strong performance across multiple regions  
-- Balanced distribution among team members  
+- **Top Product & Category:** Mouse drives $37,823; Electronics dominate revenue (63.6%)  
+- **Regional Analysis:** West region leads; South region highest units sold (79)  
+- **Sales Team Performance:** Balanced contribution; Alice highest quantity, Robert strong multi-region performance  
+- **Actionable Recommendations:** Optimize product focus, target high-performing regions, balance sales strategies across team  
 
 ---
 
 ## Technical Skills Demonstrated
-- **Data Cleaning:** Missing value handling, data validation  
+- **Data Cleaning & Validation:** Missing value handling, dropdowns  
 - **Excel Formulas:** IF, IFS, SUMIF, COUNTIFS, VLOOKUP, INDEX+MATCH  
 - **Data Analysis:** Pivot tables, conditional formatting  
-- **Data Visualization:** Charts, interactive dashboards, slicers  
-- **Business Intelligence:** KPI tracking, performance metrics  
+- **Visualization & Dashboarding:** Charts, interactive slicers, KPI tracking  
+- **Business Intelligence:** Performance insights for strategic decision-making  
 
 ---
 
 ## Files Included
-- `Store_Sales_Analysis.xlsx` – Main Excel workbook with all analysis sheets:  
+- `Store_Sales_Analysis.xlsx` – Full Excel workbook with sheets for:  
   - Clean Data  
-  - Conditional Formatting  
-  - Data Validation  
-  - Lookups  
+  - Conditional Formatting & Lookups  
   - Pivot Tables  
-  - Dashboard  
+  - Interactive Dashboard  
 
 ---
 
 ## Project Context
-**Program:** Excelerate Internship Program - Mastering Excel Techniques Masterclass  
-**Duration:** Intensive training program focused on advanced Excel analytics  
-**Objective:** Demonstrate proficiency in business intelligence through interactive dashboard development  
-**Outcome:** Portfolio-ready project showcasing end-to-end sales analytics capabilities  
-
----
+**Program:** Excelerate Internship Program – Mastering Excel Techniques  
+**Objective:** Showcase end-to-end **business intelligence and sales analytics skills** using Excel  
+**Outcome:** Portfolio-ready interactive dashboard for strategic sales decision-making
